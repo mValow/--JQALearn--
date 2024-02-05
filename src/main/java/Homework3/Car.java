@@ -32,10 +32,7 @@ public class Car {
 
 
     public String toString() {
-        return "Car{" +
-                "year=" + year +
-                ", price=" + price +
-                ", isSportCar=" + isSportCar +
+        return "Car{" + "year=" + year + ", price=" + price + ", isSportCar=" + isSportCar +
                 ", fuelTankCapacity=" + fuelTankCapacity +
                 ", freeFuel=" + freeFuel +
                 ", engineFuelOperationSystem='" + engineFuelOperationSystem + '\'' +
