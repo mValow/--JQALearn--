@@ -11,7 +11,7 @@ public class Task4 {
         }
 
 
-        System.out.println("Обход с for loop:");
+        System.out.println("for loop:");
         for (int number : numbers) {
             System.out.println(number);
         }
